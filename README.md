@@ -1,3 +1,3 @@
 # beast.github.io
-beast bot website lol
+beast bot website new version lol
 https://beastop.cf/
