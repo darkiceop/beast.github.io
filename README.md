@@ -1,3 +1,3 @@
 # beast.github.io
-beast bot website new version lol
-https://beastop.cf/
+mmusic bot for discord website but soome errors lol soooon fix
+https://darkiceop.github.io/project-1/
